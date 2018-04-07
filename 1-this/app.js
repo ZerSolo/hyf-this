@@ -1,5 +1,1 @@
-function foo() {
-  console.log(this);
-}
-
-foo();
+console.log(this);
